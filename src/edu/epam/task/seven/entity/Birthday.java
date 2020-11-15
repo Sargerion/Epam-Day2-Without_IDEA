@@ -11,7 +11,7 @@ public class Birthday {
     }
 
 	public int getDayOfWeek() {
-        return calendar.get(Calendar.DAY_OF_WEEK); //Почему-то возвращает на день как бы вперёд??
+        return calendar.get(Calendar.DAY_OF_WEEK); //РџРѕС‡РµРјСѓ-С‚Рѕ РІРѕР·РІСЂР°С‰Р°РµС‚ РЅР° РґРµРЅСЊ РєР°Рє Р±С‹ РІРїРµСЂС‘Рґ??
     }
 
 	public int getDayOfMonth() {
